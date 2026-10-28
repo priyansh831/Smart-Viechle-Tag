@@ -1,0 +1,6 @@
+{
+  "name": "SmartTag - Emergency Vehicle Communication & AI Vision",
+  "description": "Privacy-preserving emergency vehicle communication system with unique QR codes, real-time owner alerts, multilingual Gemini AI translation, and visual damage diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

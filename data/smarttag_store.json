@@ -1,0 +1,201 @@
+{
+  "users": [
+    {
+      "_id": "user_priyansh_gupta",
+      "username": "priyansh_driver",
+      "email": "priyanshg753@gmail.com",
+      "password": "$2a$10$wEkgmQ2n0f58VzG7Qk92eO3Pz0K7Vz1mE.3lWJgK4.bMkWmIeJ3a2",
+      "fullName": "Priyansh Gupta",
+      "preferredLanguage": "hi",
+      "createdAt": "2026-10-24T00:00:00.000Z"
+    }
+  ],
+  "vehicles": [
+    {
+      "tagId": "tag_tata_dl08ca4321",
+      "ownerId": "user_priyansh_gupta",
+      "licensePlate": "DL 08 CA 4321",
+      "make": "Tata Motors",
+      "model": "Nexon EV Empowered+",
+      "year": 2024,
+      "color": "Daytona Grey",
+      "ownerName": "Priyansh Gupta",
+      "ownerPhoneMasked": "+91 98*** *4321",
+      "ownerPhoneHash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "preferredLanguage": "hi",
+      "emergencyNotes": "High Voltage EV. Frunk charging port. Fastag & HSRP installed.",
+      "qrCodeUrl": "data:image/png;base64,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",
+      "createdAt": "2026-10-21T07:37:05.340Z"
+    },
+    {
+      "tagId": "tag_mahindra_mh02er9000",
+      "ownerId": "user_priyansh_gupta",
+      "licensePlate": "MH 02 ER 9000",
+      "make": "Mahindra",
+      "model": "Thar 4x4 Hardtop",
+      "year": 2023,
+      "color": "Napoli Black",
+      "ownerName": "Priyansh Gupta",
+      "ownerPhoneMasked": "+91 98*** *4321",
+      "ownerPhoneHash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "preferredLanguage": "hi",
+      "emergencyNotes": "Offroad tow-hooks front and rear. Rooftop tent attached.",
+      "qrCodeUrl": "data:image/png;base64,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",
+      "createdAt": "2026-10-18T07:37:05.340Z"
+    },
+    {
+      "tagId": "tag_enfield_ka03hm1947",
+      "ownerId": "user_priyansh_gupta",
+      "licensePlate": "KA 03 HM 1947",
+      "make": "Royal Enfield",
+      "model": "Classic 350 Reborn",
+      "year": 2024,
+      "color": "Halcyon Black",
+      "ownerName": "Priyansh Gupta",
+      "ownerPhoneMasked": "+91 98*** *4321",
+      "ownerPhoneHash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+      "preferredLanguage": "en",
+      "emergencyNotes": "Handle lock engaged. Disc lock on front wheel.",
+      "qrCodeUrl": "data:image/png;base64,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",
+      "createdAt": "2026-10-14T07:37:05.340Z"
+    }
+  ],
+  "alerts": [
+    {
+      "_id": "alert_ind_1",
+      "tagId": "tag_tata_dl08ca4321",
+      "ownerId": "user_priyansh_gupta",
+      "vehicleSummary": "2024 Tata Motors Nexon EV Empowered+ (Daytona Grey)",
+      "originalMessage": "Bhaiya aapki Nexon EV DLF Cyber City Tower B gate ke saamne khadi hai, delivery van block ho rahi hai. Please thoda aage badha lijiye.",
+      "originalLanguage": "Hinglish / Hindi",
+      "translatedMessage": "Brother, your Nexon EV is parked right in front of DLF Cyber City Tower B gate and blocking the delivery van. Please move it forward slightly.",
+      "ownerLanguage": "hi",
+      "urgency": "MEDIUM",
+      "intentCategory": "PARKING_BLOCK",
+      "actionAdvisory": "Vehicle is obstructing building commercial delivery bay at DLF Cyber City. Move forward 10 meters.",
+      "location": {
+        "latitude": 28.495,
+        "longitude": 77.0895,
+        "accuracy": 8,
+        "address": "Tower B Gate, DLF Cyber City Phase 2, Gurugram, Haryana"
+      },
+      "damageReport": {
+        "hasImage": false,
+        "severity": "None",
+        "summary": "No collision or damage reported."
+      },
+      "quickReplies": [
+        "Haan bhaiya, bas 2 minute mein aa raha hoon!",
+        "Maafi chahta hoon, emergency call pe tha. Abhi move karta hoon.",
+        "Guard sahab ko key di hai, woh move kar rahe hain."
+      ],
+      "bystanderName": "Suraj Pal (Society Security)",
+      "bystanderContact": "",
+      "status": "ACKNOWLEDGED",
+      "ownerReply": "Haan bhaiya, bas 2 minute mein aa raha hoon!",
+      "ownerReplyTimestamp": "2026-10-24T06:47:05.340Z",
+      "createdAt": "2026-10-24T06:17:05.340Z"
+    },
+    {
+      "_id": "alert_ind_2",
+      "tagId": "tag_mahindra_mh02er9000",
+      "ownerId": "user_priyansh_gupta",
+      "vehicleSummary": "2023 Mahindra Thar 4x4 (Napoli Black)",
+      "originalMessage": "Mumbai Traffic Police crane has reached Linking Road near Bandra! They are towing vehicles parked near the bus stop. Please move your Thar immediately!",
+      "originalLanguage": "English",
+      "translatedMessage": "ट्रैफिक पुलिस की टोइंग क्रेन लिंकिंग रोड पर आ गई है और बस स्टॉप के पास खड़ी गाड़ियां उठा रही है! अपनी थार तुरंत हटा लें!",
+      "ownerLanguage": "hi",
+      "urgency": "CRITICAL",
+      "intentCategory": "TOWING_RISK",
+      "actionAdvisory": "Urgent towing alert by Mumbai Traffic Police. Relocate vehicle immediately to designated parking to avoid challan.",
+      "location": {
+        "latitude": 19.0596,
+        "longitude": 72.8295,
+        "accuracy": 12,
+        "address": "Near KFC, Linking Road, Bandra West, Mumbai, Maharashtra"
+      },
+      "damageReport": {
+        "hasImage": false,
+        "severity": "None",
+        "summary": "Towing vehicle alert in progress."
+      },
+      "quickReplies": [
+        "Thank you so much brother! Running down now.",
+        "Bhai guard ko bolna ruko 1 min, aa raha hoon!",
+        "Thanks for alerting, moving right away!"
+      ],
+      "bystanderName": "Rohit Deshmukh",
+      "bystanderContact": "",
+      "status": "PENDING",
+      "createdAt": "2026-10-24T07:42:05.340Z"
+    },
+    {
+      "_id": "alert_ind_3",
+      "tagId": "tag_tata_dl08ca4321",
+      "ownerId": "user_priyansh_gupta",
+      "vehicleSummary": "2024 Tata Motors Nexon EV Empowered+ (Daytona Grey)",
+      "originalMessage": "Namaste ji, Connaught Place mein tez monsoon barish start ho gayi hai aur aapki gaadi ka passenger window adha khula hai. Paani andar seat par jaa raha hai.",
+      "originalLanguage": "Hindi",
+      "translatedMessage": "Greetings, heavy monsoon rain has started in Connaught Place and your car passenger window is rolled halfway down. Rainwater is soaking the front seat.",
+      "ownerLanguage": "hi",
+      "urgency": "MEDIUM",
+      "intentCategory": "VEHICLE_ISSUE",
+      "actionAdvisory": "Rain entering cabin at Connaught Place parking. Close window via Tata iRA connected app or in person.",
+      "location": {
+        "latitude": 28.6315,
+        "longitude": 77.2167,
+        "accuracy": 10,
+        "address": "Block C Inner Circle Parking, Connaught Place, New Delhi"
+      },
+      "damageReport": {
+        "hasImage": false,
+        "severity": "Low",
+        "summary": "Cabin window partially rolled down during heavy rain."
+      },
+      "quickReplies": [
+        "Bahut shukriya batane ke liye! App se band kar raha hoon.",
+        "Bas aa raha hoon, thanks a lot bhai!",
+        "Valet ko bhej raha hoon window close karne."
+      ],
+      "bystanderName": "Ankit Mehra",
+      "bystanderContact": "",
+      "status": "ACKNOWLEDGED",
+      "ownerReply": "Bahut shukriya batane ke liye! App se band kar raha hoon.",
+      "ownerReplyTimestamp": "2026-10-24T04:17:05.340Z",
+      "createdAt": "2026-10-24T03:17:05.340Z"
+    },
+    {
+      "_id": "alert_ind_4",
+      "tagId": "tag_enfield_ka03hm1947",
+      "ownerId": "user_priyansh_gupta",
+      "vehicleSummary": "2024 Royal Enfield Classic 350 (Halcyon Black)",
+      "originalMessage": "Hi, an auto-rickshaw lightly grazed your bike exhaust guard while taking a sharp turn near 100ft road. No dent, but minor scratch on chrome.",
+      "originalLanguage": "English",
+      "translatedMessage": "नमस्ते, 100 फीट रोड के पास एक ऑटो-रिक्शा ने आपकी बाइक के क्रोम एग्जॉस्ट गार्ड को हल्का छू दिया। कोई डेंट नहीं है, केवल मामूली स्क्रैच है।",
+      "ownerLanguage": "hi",
+      "urgency": "LOW",
+      "intentCategory": "COLLISION_DAMAGE",
+      "actionAdvisory": "Minor cosmetic graze on exhaust chrome reported in Indiranagar.",
+      "location": {
+        "latitude": 12.9719,
+        "longitude": 77.6412,
+        "accuracy": 6,
+        "address": "Opposite Toit, 100 Feet Road, Indiranagar, Bengaluru, Karnataka"
+      },
+      "damageReport": {
+        "hasImage": false,
+        "severity": "Low",
+        "summary": "Surface scrape on exhaust pipe guard."
+      },
+      "quickReplies": [
+        "Thanks for letting me know, I will inspect it.",
+        "Did the auto stop or note down the number?",
+        "Appreciate the heads-up brother!"
+      ],
+      "bystanderName": "Karthik N.",
+      "bystanderContact": "",
+      "status": "PENDING",
+      "createdAt": "2026-10-24T08:02:05.340Z"
+    }
+  ]
+}
